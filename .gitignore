@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# KiCad lock/temp files
+*.kicad_sch.lck
+*.kicad_pcb.lck
+*.kicad_pro.lck
+~*.lck
